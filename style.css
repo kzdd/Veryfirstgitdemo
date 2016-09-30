@@ -2,3 +2,34 @@
 	margin: 0px;
 	padding: 0px;
 }
+
+h1{
+	color: white;
+	text-align: center;
+}
+
+p{
+	color: white;
+	text-align: center;
+}
+
+#wrapper{
+	width: 450px;
+	background-color: black;
+	margin:0px auto;
+
+	/*display: inline-block;*/
+}
+
+	
+}
+.pic_position{
+	display: inline-block;
+	margin: 10px 10px 10px 10px;
+
+}
+   img{
+   	width: 298px;
+	height:200px;
+
+   }
